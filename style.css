@@ -5,6 +5,7 @@ h1{
     font: size 60px; 
     color: beige;
     text-align: center;
+    border: 5px dotted rgb(112, 58, 124);
 }
 p{
     font-size: 20px;
@@ -14,4 +15,4 @@ p{
 img{
     width: 15%;
     margin-left: 850px;
-}
+    border: 5px solid rgb(149, 103, 155); }
