@@ -1,18 +1,18 @@
 body{
-    background-color: rgb(121, 90, 117);
+    background-color:rgb(255, 197, 198) ;
 }
 h1{
     font: size 60px; 
-    color: beige;
+    color: #760000;
     text-align: center;
-    border: 5px dotted rgb(112, 58, 124);
+    border: 5px dotted #3F0707;
 }
 p{
     font-size: 20px;
-    color: black;
+    color:#3F0707 ;
     text-align: center;
 }
 img{
     width: 15%;
     margin-left: 850px;
-    border: 5px solid rgb(149, 103, 155); }
+    border: 5px solid rgb(0, 0, 0); }
